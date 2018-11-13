@@ -1,1 +1,1 @@
-# ManagerMobileprovision
+# 一款自动管理mobileprovision 文件的脚本，会自动删除过期mobileprovision，保留最新文件
